@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riho1074 Riley Hora
 - 👀 I’m interested in ... Climbing, Backpacking
-- 🌱 I’m currently learning ... Algorithms
+- 🌱 I’m currently learning ... Computer Systems
 - 📫 How to reach me ... riho1074@colorado.edu
 
 <!---
